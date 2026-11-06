@@ -1,0 +1,8 @@
+{
+  "name": "VozBrasil AI - Texto em Áudio Português BR",
+  "description": "Estúdio inteligente de conversão de texto para fala em português do Brasil com vozes realistas de IA, estilos vocais e download em WAV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
